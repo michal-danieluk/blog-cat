@@ -1,4 +1,4 @@
-module.export = {
+/* module.export = {
   webpack: (config, { isServer }) => {
     //Fixes npm packeges d
     if (!isServer) {
@@ -9,4 +9,4 @@ module.export = {
 
     return config;
   }
-};
+}; */
